@@ -20,7 +20,10 @@ class App extends Component {
         {
           calendars.map(function(calendar) {
             return (
-              <button key={calendar} onClick={() => this.setState({currentCalendar: calendar})}>{calendar}</button>
+              <button key={calendar}
+                onClick={() => this.setState({currentCalendar: calendar})}
+                style={{backgroundColor: this.state.currentCalendar === calendar ? 'yellow' : 'white'}}
+              >{calendar}</button>
             )
           }.bind(this))
         }
