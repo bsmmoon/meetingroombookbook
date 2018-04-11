@@ -11,11 +11,14 @@ class App extends Component {
 
     this.state = {
       searchOpen: false,
-      currentCalendar: 'Aero',
+      currentCalendar: 'All',
       calendarSrcs: {
+        'All': 'meetingroombookbook%40gmail.com',
         'Aero': 'jb6i3e63fllvb3r6k2rprhfu78%40group.calendar.google.com',
         'China': 'r58ht4m27g54j6k8jlqcar2p4c%40group.calendar.google.com',
         'Siam': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
+        'India': '3jhtgd331vijqierj8bemcp60s%40group.calendar.google.com',
+        'Singapore': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
       }
     };
   }
