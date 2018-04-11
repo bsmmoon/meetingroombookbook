@@ -103,13 +103,54 @@ class Style {
         blue: {
           backgroundColor: colours.blue,
         },
+        white: {
+          backgroundColor: colours.white,
+        },
       },
       border: {
+        full: {
+          border: '2px solid #000'
+        },
         bottom: {
           borderBottom: '2px solid #000',
         },
       },
+      padding: {
+        medium: {
+          padding: '20px',
+        },
+        large: {
+          padding: '30px',
+        },
+        left: {
+          medium: {
+            paddingLeft: '20px',
+          },
+          large: {
+            paddingLeft: '30px',
+          },
+        },
+        right: {
+          medium: {
+            paddingRight: '20px',
+          },
+          large: {
+            paddingRight: '30px',
+          },
+        },
+        bottom: {
+          medium: {
+            padding: '20px',
+          },
+          large: {
+            padding: '30px',
+          },
+        },
+      },
       margin: {
+        medium: {
+          margin: '20px',
+        },
         right: {
           small: {
             marginRight: '10px',
