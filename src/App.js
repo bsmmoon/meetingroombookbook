@@ -23,6 +23,7 @@ class App extends Component {
         'Siam': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'Singapore': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'Spider': '8cn5cdkbstbheksnr3bhgi2kqo%40group.calendar.google.com',
+        'Thailand': '3lvtljqg095m82cb2jsg0ptqgg%40group.calendar.google.com',
         'Vietnam': '94b91tg1sp2kf6aogiolrfp6ks%40group.calendar.google.com',
       }
     };
