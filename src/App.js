@@ -18,12 +18,16 @@ class App extends Component {
         'Australia': '6dtnn48acr2b6p44ipascf8sa4%40group.calendar.google.com',
         'Cheetah': 'r620c2je9c2is9m6rehtkn4c6o%40group.calendar.google.com',
         'China': 'r58ht4m27g54j6k8jlqcar2p4c%40group.calendar.google.com',
+        'Hong Kong': '998iijas4mbjfgpk08gb5navv0%40group.calendar.google.com',
         'India': '3jhtgd331vijqierj8bemcp60s%40group.calendar.google.com',
+        'Octopus': 'aog4efj92poovmq1p20arevcsg%40group.calendar.google.com',
+        'Philippines': 'flb1ik5ibls7fpfb825etejg00%40group.calendar.google.com',
         'Pitt Street': 'ukk1j80p6d5uq7e5adguj4rr5o%40group.calendar.google.com',
         'Siam': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'Singapore': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'Spider': '8cn5cdkbstbheksnr3bhgi2kqo%40group.calendar.google.com',
         'Thailand': '3lvtljqg095m82cb2jsg0ptqgg%40group.calendar.google.com',
+        'Times Square': 'a2rnflknpek4074nevtlv8kghk%40group.calendar.google.com',
         'Vietnam': '94b91tg1sp2kf6aogiolrfp6ks%40group.calendar.google.com',
       }
     };
