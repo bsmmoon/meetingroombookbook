@@ -15,10 +15,14 @@ class App extends Component {
       calendarSrcs: {
         'All': 'meetingroombookbook%40gmail.com',
         'Aero': 'jb6i3e63fllvb3r6k2rprhfu78%40group.calendar.google.com',
+        'Australia': '6dtnn48acr2b6p44ipascf8sa4%40group.calendar.google.com',
+        'Cheetah': 'r620c2je9c2is9m6rehtkn4c6o%40group.calendar.google.com',
         'China': 'r58ht4m27g54j6k8jlqcar2p4c%40group.calendar.google.com',
-        'Siam': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'India': '3jhtgd331vijqierj8bemcp60s%40group.calendar.google.com',
+        'Pitt Street': 'ukk1j80p6d5uq7e5adguj4rr5o%40group.calendar.google.com',
+        'Siam': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
         'Singapore': 'r0t36htoju34kt0r3mc6lvu13k%40group.calendar.google.com',
+        'Spider': '8cn5cdkbstbheksnr3bhgi2kqo%40group.calendar.google.com',
       }
     };
   }
